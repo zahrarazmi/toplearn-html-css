@@ -370,8 +370,8 @@ z-index:1;
 }
 .title::before {
   position: absolute;
-  top: 15px;
-  left: 212px;
+  top: 55%;
+  left: 110%;
   content: "";
   width: 2000px;
   height: 5px;
@@ -384,8 +384,8 @@ z-index:1;
   width: 32px;
   height: 5px;
   background-color: #00bffe;
-  left: 212px;
-  top: 15px;
+  left: 110%;
+  top: 55%;
   border-radius: 5px;
 }
 .fa-arrow-left {
